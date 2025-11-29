@@ -1,4 +1,0 @@
-25-11-27 13:00:56.554 [main] INFO  com.security.DemoApplication - Starting DemoApplication using Java 24.0.2 with PID 4920 (C:\Users\Varun Kalyadapu\Downloads\SpringSecurity\demo\target\classes started by Varun Kalyadapu in C:\Users\Varun Kalyadapu\Downloads\SpringSecurity\demo) 
-25-11-27 13:00:56.578 [main] INFO  com.security.DemoApplication - No active profile set, falling back to 1 default profile: "default" 
-25-11-27 13:00:58.827 [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Bootstrapping Spring Data MongoDB repositories in DEFAULT mode. 
-25-11-27 13:00:59.004 [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 159 ms. Found 2 MongoDB repository interfaces. 
